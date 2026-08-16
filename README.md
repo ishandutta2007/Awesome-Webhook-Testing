@@ -25,6 +25,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## 📋 Table of Contents
 - [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧪 Related Application QA](#-related-application-qa)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#-disclaimer)
 - [📈 Star History](#-star-history)
@@ -84,6 +85,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - 📚 Many language-specific webhook receiver libraries with built-in logging and inspection helpers.
 
 **Frameworks for building custom systems**: Deploy a self-hosted inspector such as **Webhix**, **Hookdump**, or **wtt** for capture and replay; pair with **smee.io** or **LocalTunnel/bore** for local forwarding; add signature verification libraries; store history in SQLite or Redis; and optionally integrate local LLMs for payload analysis or auto-generated test cases.
+
+## 🧪 Related Application QA
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available agentic QA for natural-language web and mobile tests. It is an adjacent application-testing tool rather than a webhook capture, inspection, or replay service.
 
 ## 🤝 How to Contribute
 1. Fork the repo.
